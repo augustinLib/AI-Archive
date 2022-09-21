@@ -173,7 +173,7 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 - `Motivation`
     
     - [개발자 적성 안맞으신가요? (개발자 동기부여 영상) - 프로그래밍적성 | 덤벨로퍼TV](https://youtu.be/Z5EVaaKSx9A)  
-
+    - [성장을 좋아하는 사람이, 성장하고 싶은 사람들에게 (데이터 분석가 변성윤님 학회 특강 발표 ppt)](https://www.slideshare.net/zzsza/ss-173453051) 
 
 - `Self-development`
     - [제일 중요한 개발자의 자질?! | 드림코딩](https://youtu.be/Cl84bjVp5TI)  
