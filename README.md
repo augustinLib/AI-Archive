@@ -52,7 +52,9 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 [9.Network](#Network)
 
-[10.학습 자료가 아니더라도 꼭 봤으면 하는 자료들](#학습-자료가-아니더라도-꼭-봤으면-하는-자료들)  
+[10.Database](#Database)
+
+[11.학습 자료가 아니더라도 꼭 봤으면 하는 자료들](#학습-자료가-아니더라도-꼭-봤으면-하는-자료들)  
 
 
 
@@ -78,12 +80,15 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 --- 
 ### 😍Mathematics
 --- 
-- Statitics
+- *Statitics*
     * 추가 예정
+    * 
 
-- Linear Algebra
-  - [한양대학교 이상화 교수님 선형대수학 강의 - 유튜브](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)
-- Calculus
+- *Linear Algebra*
+  - [한양대학교 이상화 교수님 선형대수학 강의 - 유튜브](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)  
+  - 
+  
+- *Calculus*
 
     
  
@@ -96,12 +101,13 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 *Pytorch*
 - [Pytorch tutorial](https://tutorials.pytorch.kr)
-
+- [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)
 
 *Jax*
 - [Github Repository](https://github.com/google/jax)
 
-
+*Etc*
+- [GPU 사용을 위한 CUDA 환경 구성하기](https://velog.io/@mactto3487/딥러닝-GPU-환경-구성하기)
 --- 
 ### 📗ML
 --- 
@@ -137,12 +143,19 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 --- 
 ### 🐍Network
 --- 
--    
+- 
+
+
+--- 
+### 📑Database
+--- 
+- [[SQL 기초 강의] 혼자 공부하는 SQL(MySQL 8.0)](https://youtu.be/0cRhit1EJM0)
+
 
     
     
 --- 
-### < 🤴 학습 자료가 아니더라도 `꼭 봤으면 하는 자료들` 👸 >
+### 🤴학습 자료가 아니더라도 `꼭 봤으면 하는 자료들`👸
 --- 
 
 > 유용한 링크들을 올려주세요. 필요하다면 카테고리 추가도 자유롭게 할 수 있습니다.  
@@ -165,7 +178,11 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 - `Self-development`
     - [제일 중요한 개발자의 자질?! | 드림코딩](https://youtu.be/Cl84bjVp5TI)  
     -
-    -
-    -
-    
+
+- `Git/GitHub`
+    - [GitHub ssh key 설정](https://goddaehee.tistory.com/254)  
+    - [깃허브(Github) 파일 업로드](https://shortcuts.tistory.com/m/8)  
+    - [Git 커밋 컨벤션](https://velog.io/@wkdgus7113/git-커밋-컨벤션)  
+
+
 --- 
