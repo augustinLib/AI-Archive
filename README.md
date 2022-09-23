@@ -122,7 +122,7 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 ### 🔮DL
 --- 
 
-- 
+- [파이토치 템플릿](https://github.com/victoresque/pytorch-template)
 
 
 --- 
