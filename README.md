@@ -105,6 +105,7 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 *Pytorch*
 - [Pytorch tutorial](https://tutorials.pytorch.kr)
 - [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)
+- [Albumentations: Easy Image Augmentation] (https://tw0226.tistory.com/39)
 
 *Jax*
 - [Github Repository](https://github.com/google/jax)
