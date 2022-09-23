@@ -105,6 +105,7 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 *Pytorch*
 - [Pytorch tutorial](https://tutorials.pytorch.kr)
 - [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)
+- [Albumentations: Easy Image Augmentation](https://github.com/albumentations-team/albumentations)
 
 *Jax*
 - [Github Repository](https://github.com/google/jax)
@@ -187,5 +188,6 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
     - [깃허브(Github) 파일 업로드](https://shortcuts.tistory.com/m/8)  
     - [Git 커밋 컨벤션](https://velog.io/@wkdgus7113/git-커밋-컨벤션)  
 
-
+- `Tips`
+    - [팀 시간 약속 정하기](https://www.when2meet.com)
 --- 
