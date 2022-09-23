@@ -89,11 +89,11 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 - *Linear Algebra*
   - [한양대학교 이상화 교수님 선형대수학 강의 - 유튜브](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)  
-  - 
-  
-- *Calculus*
+  - [선형대수학개론-인프런 강의(유료)](  https://www.inflearn.com/course/선형대수학개론/)  
 
-    
+- *Calculus*
+  - [미적분학-인프런 강의(유료)](https://www.inflearn.com/course/미적분학-미분-1)  
+
  
 --- 
 ### 👨‍🌾Framework
@@ -121,7 +121,9 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 ### 🔮DL
 --- 
 
-- 
+*NLP*
+- [ratsgo's blog](https://ratsgo.github.io/blog/categories/#natural-language-processing)
+
 
 
 --- 
@@ -139,9 +141,9 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 --- 
 ### 👨‍🔧OS  
 --- 
-- 
+- [운영체제 공룡책 강의-인프런 강의(무료)](https://www.inflearn.com/course/운영체제-공룡책-전공강의)
 
-  
+
   
 --- 
 ### 🐍Network
