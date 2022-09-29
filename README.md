@@ -126,7 +126,8 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 - [ratsgo's blog](https://ratsgo.github.io/blog/categories/#natural-language-processing)
 - [파이토치 템플릿](https://github.com/victoresque/pytorch-template)
 
-
+*Computer Vision*
+- [다양한 합성곱](https://eehoeskrap.tistory.com/431)
 
 --- 
 ### 🔥Data Structure  
