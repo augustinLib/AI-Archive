@@ -128,6 +128,13 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 *Computer Vision*
 - [다양한 합성곱](https://eehoeskrap.tistory.com/431)
+- [비전 트랜스포머 활용](https://hoya012.github.io/blog/Vision-Transformer-1/) 
+
+*PreProcessing*
+- [퍼즐 믹스](https://medium.com/snu-aiis-blog/puzzle-mix-exploiting-saliency-and-local-statistics-for-optimal-mixup-a2e841f9cf69)
+
+*Serial Forecasting*
+- [시계열 예측](https://www.secmem.org/blog/2022/09/17/time-series-forecasting/)
 
 --- 
 ### 🔥Data Structure  
@@ -194,4 +201,5 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 - `Tips`
     - [팀 시간 약속 정하기](https://www.when2meet.com)
+    - [팀 만남 장소 정하기](https://wemeetplace.com)
 --- 
