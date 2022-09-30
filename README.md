@@ -130,6 +130,9 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 - [다양한 합성곱](https://eehoeskrap.tistory.com/431)
 - [비전 트랜스포머 활용](https://hoya012.github.io/blog/Vision-Transformer-1/) 
 
+*PreProcessing*
+- [퍼즐 믹스](https://medium.com/snu-aiis-blog/puzzle-mix-exploiting-saliency-and-local-statistics-for-optimal-mixup-a2e841f9cf69)
+
 --- 
 ### 🔥Data Structure  
 --- 
