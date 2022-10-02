@@ -135,6 +135,7 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 *Serial Forecasting*
 - [시계열 예측](https://www.secmem.org/blog/2022/09/17/time-series-forecasting/)
+- [Neural ODE](https://seewoo5.tistory.com/12)
 
 --- 
 ### 🔥Data Structure  
