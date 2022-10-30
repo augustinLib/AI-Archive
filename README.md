@@ -75,6 +75,7 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 *기초 강의*  
 
 - [조코딩의 파이썬 기초 강의(점프 투 파이썬) | 조코딩 JoCoding](https://youtube.com/playlist?list=PLU9-uwewPMe2AX9o9hFgv-nRvOcBdzvP5)  
+- [디버깅 꿀팁 ](https://medium.com/dataroots/a-gentle-introduction-to-geometric-deep-learning-by-vitale-sparacello-91e529cf439b)
 
 
 
