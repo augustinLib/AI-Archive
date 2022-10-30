@@ -132,6 +132,7 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 *Computer Vision*
 - [다양한 합성곱](https://eehoeskrap.tistory.com/431)
 - [비전 트랜스포머 활용](https://hoya012.github.io/blog/Vision-Transformer-1/) 
+- [비전 트랜스포머 핸즈온](https://medium.com/mlearning-ai/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c)
 
 *PreProcessing*
 - [퍼즐 믹스](https://medium.com/snu-aiis-blog/puzzle-mix-exploiting-saliency-and-local-statistics-for-optimal-mixup-a2e841f9cf69)
