@@ -212,4 +212,5 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 - `Tips`
     - [팀 시간 약속 정하기](https://www.when2meet.com)
     - [팀 만남 장소 정하기](https://wemeetplace.com)
+    - [무료 마크다운 편집기](https://github.com/marktext/marktext)
 --- 
