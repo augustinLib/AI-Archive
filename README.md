@@ -123,8 +123,10 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 ### 🔮DL
 --- 
 *General*
-- [딥러닝 논문 모음집](https://pouncing-healer-4e5.notion.site/c720d1c861594747bad3e2077ef47c6e)
 - [딥러닝 논문](https://medium.com/dataseries/24-really-f-ing-interesting-deep-learning-papers-fa26afe3a070)
+
+*PreProcessing*
+- [퍼즐 믹스](https://medium.com/snu-aiis-blog/puzzle-mix-exploiting-saliency-and-local-statistics-for-optimal-mixup-a2e841f9cf69)
 
 
 *NLP*
@@ -136,15 +138,14 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 - [비전 트랜스포머 활용](https://hoya012.github.io/blog/Vision-Transformer-1/) 
 - [비전 트랜스포머 핸즈온](https://medium.com/mlearning-ai/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c)
 
-*PreProcessing*
-- [퍼즐 믹스](https://medium.com/snu-aiis-blog/puzzle-mix-exploiting-saliency-and-local-statistics-for-optimal-mixup-a2e841f9cf69)
-
 *Serial Forecasting*
 - [시계열 예측](https://www.secmem.org/blog/2022/09/17/time-series-forecasting/)
 - [Neural ODE](https://seewoo5.tistory.com/12)
 
+
 *Reinforcement Learning*
 - [강화학습 Environments](https://medium.com/@mlblogging.k/15-awesome-reinforcement-learning-environments-you-must-know-a38fb75867f2)
+
 --- 
 ### 🔥Data Structure  
 --- 
