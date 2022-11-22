@@ -127,7 +127,7 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 *PreProcessing*
 - [퍼즐 믹스](https://medium.com/snu-aiis-blog/puzzle-mix-exploiting-saliency-and-local-statistics-for-optimal-mixup-a2e841f9cf69)
-
+- [Rare Feature Engineering](https://shaz13.medium.com/rare-feature-engineering-techniques-for-machine-learning-competitions-de36c7bb418f)
 
 *NLP*
 - [ratsgo's blog](https://ratsgo.github.io/blog/categories/#natural-language-processing)
