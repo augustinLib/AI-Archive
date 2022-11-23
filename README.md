@@ -124,10 +124,11 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 --- 
 *General*
 - [딥러닝 논문](https://medium.com/dataseries/24-really-f-ing-interesting-deep-learning-papers-fa26afe3a070)
+- [AI 최신 뉴스](http://www.aitimes.com)
+- [논문/데이터/코드](https://paperswithcode.com)
 
 *PreProcessing*
 - [퍼즐 믹스](https://medium.com/snu-aiis-blog/puzzle-mix-exploiting-saliency-and-local-statistics-for-optimal-mixup-a2e841f9cf69)
-
 
 *NLP*
 - [ratsgo's blog](https://ratsgo.github.io/blog/categories/#natural-language-processing)
