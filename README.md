@@ -117,7 +117,8 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 ### 📗ML
 --- 
 
-- 
+- [Kaggle 북](https://github.com/PacktPublishing/The-Kaggle-Book)
+- [Kaggle 솔루션 모음집](https://farid.one/kaggle-solutions/)
 
 --- 
 ### 🔮DL
@@ -148,6 +149,9 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 *Reinforcement Learning*
 - [강화학습 Environments](https://medium.com/@mlblogging.k/15-awesome-reinforcement-learning-environments-you-must-know-a38fb75867f2)
+
+*Tabular Data Deep Learning*
+- [TabNet](https://github.com/dreamquark-ai/tabnet)
 
 --- 
 ### 🔥Data Structure  
@@ -216,4 +220,6 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
     - [팀 시간 약속 정하기](https://www.when2meet.com)
     - [팀 만남 장소 정하기](https://wemeetplace.com)
     - [무료 마크다운 편집기](https://github.com/marktext/marktext)
+    - [모각코하기 좋은 카페 리스트](https://github.com/utilForever/awesome-cafe)
+    - [구글 학술 검색 인용순 정렬](https://github.com/WittmannF/sort-google-scholar)
 --- 
