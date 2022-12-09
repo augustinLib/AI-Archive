@@ -222,4 +222,5 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
     - [무료 마크다운 편집기](https://github.com/marktext/marktext)
     - [모각코하기 좋은 카페 리스트](https://github.com/utilForever/awesome-cafe)
     - [구글 학술 검색 인용순 정렬](https://github.com/WittmannF/sort-google-scholar)
+    - [논문 검색 플랫폼](https://www.zeta-alpha.com/)
 --- 
