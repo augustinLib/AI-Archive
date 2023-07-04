@@ -89,6 +89,7 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 - *Linear Algebra*
   - [한양대학교 이상화 교수님 선형대수학 강의 - 유튜브](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)  
+  - 
   - [선형대수학개론-인프런 강의(유료)](  https://www.inflearn.com/course/선형대수학개론/)  
 
 - *Calculus*
