@@ -219,7 +219,6 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 - `Self-development`
     - [제일 중요한 개발자의 자질?! | 드림코딩](https://youtu.be/Cl84bjVp5TI)  
-    -
 
 - `Git/GitHub`
     - [GitHub ssh key 설정](https://goddaehee.tistory.com/254)  
