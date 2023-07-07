@@ -84,7 +84,7 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 ### 😍Mathematics
 --- 
 - *Statitics*
-    * 추가 예정
+  - [확률과 통계 기초-인프런 강의(유료)](https://www.inflearn.com/course/%ED%99%95%EB%A5%A0%EA%B3%BC-%ED%86%B5%EA%B3%84-%EA%B8%B0%EC%B4%88)
 
 
 - *Linear Algebra*
