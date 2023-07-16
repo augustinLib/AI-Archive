@@ -119,7 +119,6 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 - [Docs](https://flax.readthedocs.io/en/latest/)
   
 
-
 *Etc*
 - [GPU 사용을 위한 CUDA 환경 구성하기](https://velog.io/@mactto3487/딥러닝-GPU-환경-구성하기)
 --- 
