@@ -75,9 +75,10 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 - [조코딩의 파이썬 기초 강의(점프 투 파이썬) | 조코딩 JoCoding](https://youtube.com/playlist?list=PLU9-uwewPMe2AX9o9hFgv-nRvOcBdzvP5)  
 - [디버깅 꿀팁 ](https://medium.com/dataroots/a-gentle-introduction-to-geometric-deep-learning-by-vitale-sparacello-91e529cf439b)
+- [파이썬 알고리즘 인터뷰 (교재)](https://product.kyobobook.co.kr/detail/S000001932748)
 
 *심화*
-  - [전문가를 위한 파이썬 (교재)](https://product.kyobobook.co.kr/detail/S000001057838)
+- [전문가를 위한 파이썬 (교재)](https://product.kyobobook.co.kr/detail/S000001057838)
 
 
   
@@ -91,7 +92,6 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 - *Linear Algebra*
   - [한양대학교 이상화 교수님 선형대수학 강의 - 유튜브](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)  
-  - 
   - [선형대수학개론-인프런 강의(유료)](  https://www.inflearn.com/course/선형대수학개론/)  
 
 - *Calculus*
