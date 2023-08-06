@@ -129,6 +129,7 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 
 - [Kaggle 북](https://github.com/PacktPublishing/The-Kaggle-Book)
 - [Kaggle 솔루션 모음집](https://farid.one/kaggle-solutions/)
+- [Probabilistic machine learning (머피책)](https://github.com/probml/pml2-book/releases/tag/2023-04-01)
 
 --- 
 ### 🔮DL
