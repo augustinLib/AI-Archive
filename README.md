@@ -97,6 +97,8 @@ AI 꿈나무들을 위해 만들어진 프로젝트지만
 - *Calculus*
   - [미적분학-인프런 강의(유료)](https://www.inflearn.com/course/미적분학-미분-1)  
 
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+
  
 --- 
 ### 👨‍🌾Framework
